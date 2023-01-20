@@ -1,0 +1,87 @@
+* {
+    /* border: solid red 1px; */
+}
+
+body {
+    margin: 0px;
+    margin-left: 475px;
+    margin-right: 475px;
+    padding: 0px;
+    padding-top: 100px;
+    background-color: white;
+    text-align: center;
+}
+
+.container {
+align-items: center;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 75px;
+    margin-top: 5px;
+    padding: 5px;
+    justify-content: center;
+}
+
+.sign-in {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+ margin: 0px;
+ padding: 0px;
+}
+
+.email {
+margin: 0px;
+padding: 0px;
+justify-items: center;
+}
+
+h6 {
+    margin: 3px;
+}
+
+input[type=text] {
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+}
+
+.button1 {
+
+}
+button1 {
+    background-color: rgb(255, 204, 64);
+    width: auto;
+}
+
+.password {
+    justify-content: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.button2 {
+}
+
+button2 {
+    background-color: rgb(221, 212, 212);
+}
+
+.extras {
+    margin-top: -75px;
+justify-content: center;
+}
+
+.links {
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.copyright {
+    text-align: center;
+}
