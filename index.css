@@ -1,87 +1,83 @@
 * {
     /* border: solid red 1px; */
 }
-
 body {
     margin: 0px;
-    margin-left: 475px;
-    margin-right: 475px;
+    margin-top: 175px;
+    margin-left: 500px;
+    margin-right: 500px;
     padding: 0px;
-    padding-top: 100px;
+    padding-top: 15px;
     background-color: white;
-    text-align: center;
+    /* text-align: center; */
+    border: solid black 1.5px;
 }
-
 .container {
-align-items: center;
-margin-left: 0px;
-margin-right: 0px;
-margin-bottom: 75px;
-    margin-top: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 75px;
     padding: 5px;
-    justify-content: center;
+    padding-top: 0px;
 }
-
 .sign-in {
     padding: 0px;
     margin: 0px;
 }
-
 h1 {
- margin: 0px;
- padding: 0px;
+    margin: 0px;
+    padding: 0px;
 }
-
 .email {
-margin: 0px;
-padding: 0px;
-justify-items: center;
+    margin: 0px;
+    padding: 0px;
+    justify-items: center;
 }
-
 h6 {
     margin: 3px;
 }
 
+input[type=text1] {
+
+}
 input[type=text] {
     padding-left: 10px;
     padding-right: 10px;
-
-
+    border: solid black;
+    border-width: 1px;
 }
 
 .button1 {
-
+    /* align-items: center;
+    text-align: center;
+    justify-content: center; */
 }
+
 button1 {
     background-color: rgb(255, 204, 64);
-    width: auto;
-}
-
-.password {
+    border: solid black 1px;
+    align-items: center;
+    text-align: center;
     justify-content: center;
-}
 
+}
+.password {
+    justify-content: left;
+}
 h4 {
     text-align: center;
 }
-
-.button2 {
-}
-
 button2 {
-    background-color: rgb(221, 212, 212);
+    background-color: rgb(182, 173, 173);
+    border: solid black 1px;
 }
-
 .extras {
     margin-top: -75px;
-justify-content: center;
-}
-
+    text-align: center;
+}    
 .links {
     text-align: center;
     justify-content: space-evenly;
 }
-
 .copyright {
     text-align: center;
 }
